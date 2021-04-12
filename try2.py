@@ -1,4 +1,3 @@
-Нуржан ПП КБТУ ФИТ, [12.04.21 23:44]
 import pygame
 import sys
 from pygame.locals import *
